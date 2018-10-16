@@ -1,0 +1,110 @@
+body{
+    background-color:#596c68;
+    height: 1500px;
+    color: white;
+}
+
+.background-image{
+    background-image: url("images/store1.jpg");
+    background-size: 100% 100%;
+    height: 650px;
+}
+
+.background-image h1{
+    font: 40px/1.5 Arial, Helvetica, sans-serif;
+    margin: 30px;
+    color: black;
+}
+
+.form {
+    background-color: aliceblue;
+    width: 45%;
+    height: 70%;
+    border-radius: 5px;
+    float: right;
+    margin-right: 60px;
+}
+
+.description{
+    height: 200px;
+    margin-top: 30px;
+}
+
+.description h1{
+    font: 25px/1.5 Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.description h2{
+    font: 18px/1.5 Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.allimages{
+    width:100%;
+    margin-top: 70px;
+}
+
+.image1{
+    width: 30%;
+    height: 500px;
+    float: left;
+    margin-left: 15px;
+}
+
+.image1 img{
+    width: 100%;
+    height: 60%;
+}
+
+.image1 h1{
+    float: left;
+    font: 20px/1.5 Arial, Helvetica, sans-serif;
+}
+
+.form-input{
+    width: 80%;
+    height: 40px;
+    margin: 15px;
+    color: black;
+    font: 20px/1.5 Arial, Helvetica, sans-serif
+}
+
+form p{
+    color:black;
+    margin-left: 30px;
+    font: 20px/1.5 Arial, Helvetica, sans-serif
+}
+
+.button{
+    background-color: blue;
+    float: right;
+    margin: 20px;
+    height: 40px;
+    width: 100px;
+    border-radius: 3px;
+    color:white;
+    font: 20px/1.5 Arial, Helvetica, sans-serif;
+  }
+
+input[type=radio]{
+    border: 0px;
+    width: 10%;
+    height: 1.3em;
+  }
+
+.form h1{
+    float: left;
+    font: 20px/1.5 Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+
+.form h2{
+    float: right;
+    font: 20px/1.5 Arial, Helvetica, sans-serif;
+    margin-right: 20px;
+}
+
+.form a{
+    text-decoration: none;
+}
